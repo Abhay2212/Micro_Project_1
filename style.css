@@ -14,7 +14,8 @@ main {
 }
 .main-left {
   width: 30vw;
-  margin: 73px 0;
+  /* margin: 73px 0; */
+  margin: 45px 0px; 
 }
 .heading {
   color: #282828;
