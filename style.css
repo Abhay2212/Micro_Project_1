@@ -8,7 +8,7 @@
 main {
   background-color: #ffcd9e;
   width: 100vw;
-  height: 60vh;
+  height: 70vh;
   display: flex;
   justify-content: space-around;
 }
@@ -21,7 +21,7 @@ main {
   color: #282828;
   font-size: 36px;
   font-weight: 700;
-  line-height: 150%;
+  line-height: 130%;
   margin-bottom: 20px;
 }
 .paregraph {
@@ -29,16 +29,16 @@ main {
   color: #484848;
   font-size: 20px;
   font-weight: 500;
-  line-height: 160%;
-  margin-bottom: 25px;
+  line-height: 140%;
+  margin-bottom: 20px;
 }
 
 .sub-heading {
   color: #282828;
   font-size: 20px;
   font-weight: 800;
-  line-height: 160%;
-  margin-bottom: 25px;
+  line-height: 140%;
+  margin-bottom: 20px;
 }
 form input {
   width: 15vw;
@@ -64,6 +64,10 @@ form button {
   font-size: 16px;
   font-weight: 500;
   margin-left: 30px;
+}
+.main-right img{
+  /* margin-top: 50px; */
+  height: 500px;
 }
 footer {
   background-color: #282828;
