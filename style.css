@@ -18,6 +18,7 @@ main {
   margin: 45px 0px; 
 }
 .heading {
+  width: 30vw;
   color: #282828;
   font-size: 36px;
   font-weight: 700;
