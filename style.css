@@ -8,7 +8,7 @@
 main {
   background-color: #ffcd9e;
   width: 100vw;
-  height: 70vh;
+  height: 60vh;
   display: flex;
   justify-content: space-around;
 }
